@@ -1,6 +1,6 @@
 #### Olá, eu sou a Manu
 * Estudante de engenharia de computação 
-* Estudando Javascript 
+* Acessora na empresa junior CP2ejr 
 
 <div align="center">
   <a href="https://github.com/ManuelaGripp">
