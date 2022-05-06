@@ -1,6 +1,6 @@
 #### Olá, eu sou a Manu
-*:woman_student: Estudante de engenharia de computação 
-*:woman_technologist: Acessora na empresa junior CP2ejr 
+* :woman_student: Estudante de engenharia de computação 
+* :woman_technologist: Acessora na empresa junior CP2ejr 
 
 <div align="center">
   <a href="https://github.com/ManuelaGripp">
