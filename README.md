@@ -1,6 +1,7 @@
 #### Olá, eu sou a Manu
 * :woman_student: Estudante de engenharia de computação 
-* :woman_technologist: Desenvolvedora FrontEnd na empresa junior CP2ejr 
+* :woman_technologist: Desenvolvedora FrontEnd na empresa junior CP2ejr  
+* Estudando ReactJs
 
 ### Atualmente estudando ReactJs <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
